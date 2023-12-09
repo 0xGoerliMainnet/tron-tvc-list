@@ -21,18 +21,22 @@ Follow the steps below to add a new token：
                   "WIN/BUSD",
                   "WIN/BNB",
                   "WIN/USDC"
+                  "WIN/TRX"
               ]
           },
           {
               "source": "Poloniex",
               "pairs": [
                   "WIN/USDT"
+                  "WIN/TRX"
+                  "WIN/TSTUSDT"
               ]
           },
           {
               "source": "KuCoin",
               "pairs": [
                   "WIN/USDT"
+                  "WIN/TRX"
               ]
           }
     ]
